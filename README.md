@@ -1,5 +1,4 @@
 
-What ORM means
 How to map a Python Class to a MySQL table
 How to handle 2 different storage engines with the same codebase
 How to use environment variables

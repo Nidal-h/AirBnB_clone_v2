@@ -1,5 +1,4 @@
 
-How to handle 2 different storage engines with the same codebase
 How to use environment variables
 Copyright - Plagiarism
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.

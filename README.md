@@ -1,5 +1,4 @@
 
-SQLAlchemy tutorial
 How To Create a New User and Grant Permissions in MySQL
 Python3 and environment variables
 SQLAlchemy

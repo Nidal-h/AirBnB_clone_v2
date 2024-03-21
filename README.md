@@ -1,6 +1,4 @@
 
-
-General
 What is Unit testing and how to implement it in a large project
 What is *args and how to use it
 What is **kwargs and how to use it

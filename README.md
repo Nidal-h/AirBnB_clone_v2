@@ -1,5 +1,5 @@
 
-How To Create a New User and Grant Permissions in MySQL
+a New User and Grant Permissions in MySQL
 Python3 and environment variables
 SQLAlchemy
 MySQL 8.0 SQL Statement Syntax

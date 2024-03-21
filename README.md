@@ -1,5 +1,4 @@
 
-How to create a MySQL database
 How to create a MySQL user and grant it privileges
 What ORM means
 How to map a Python Class to a MySQL table

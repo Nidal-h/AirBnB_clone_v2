@@ -1,5 +1,4 @@
 
-Python3 and environment variables
 SQLAlchemy
 MySQL 8.0 SQL Statement Syntax
 Learning Objectives
